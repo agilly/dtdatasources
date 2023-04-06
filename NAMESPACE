@@ -3,3 +3,4 @@
 export(election_filter)
 export(query_sqlite)
 export(sql_filter_factory)
+export(empty_election_df)
